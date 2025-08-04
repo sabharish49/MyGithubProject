@@ -1,4 +1,3 @@
 My first empty file,committing in new branch1 has completed.
 now creating branch2 for new push
-
 let me pull this file from github to my local
